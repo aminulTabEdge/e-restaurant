@@ -1,0 +1,10 @@
+.thumbs {
+  display: flex;
+  justify-content: center;
+}
+
+.control-arrow,
+.carousel-status,
+.control-dots {
+  display: none;
+}
